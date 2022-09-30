@@ -21,9 +21,17 @@ header {
   margin-left: auto;
   margin-right: auto;
 }
-.jon{
-color:#fff;
+.jon {
+  background: #dddd;
+  color:#cd1111;
   text-aline: center;
+  text-decoration: none;
+  font-size: 2em;
+  font-weigth: 800;
+  font-bold: 200px;
+  padding-right: 20px
+
+ 
 }
 
 
