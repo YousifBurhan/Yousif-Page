@@ -16,6 +16,11 @@ body {
 header {
   color: #fff
 }
+.hope {
+  width:400px;
+  margin-left: auto;
+  margin-right: auto;
+}
 
 
 .top-header a{
